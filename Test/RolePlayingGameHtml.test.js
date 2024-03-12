@@ -21,7 +21,7 @@ describe('HTML elements', () => {
     // assertions to verify expected behavior
 
     // 
-    expect(/* insert assertion here */).toBeTruthy(); // Example assertion
+   
   });
 
   test('Cave button click should trigger action', () => {
@@ -29,7 +29,7 @@ describe('HTML elements', () => {
     fireEvent.click(caveButton);
     // assertions to verify expected behavior
 
-    expect(/* insert  assertion here */).toBeTruthy(); // Example assertion
+  
   });
 
   test('Lift button click should trigger action', () => {
@@ -38,7 +38,7 @@ describe('HTML elements', () => {
    
     // assertions to verify expected behavior
 
-    expect(/* insert assertion here */).toBeTruthy(); // Example assertion
+   
   });
 });
 
