@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Claxton">
+    <Meta name="description" content="this is a free code camp project">
+    <link rel="stylesheet" href="refactoredRole.css">
+    <script src="role.js" defer></script>
+    <title>RPG Dragon Repeller</title>
+</head>
+<body>
+    <article aria-label="dragon fighting game" aria-details="dragon themed fighting game">
+
+        <section id="game" aria-label="game container">
+
+            <section id="stats" aria-label="player stats">
+                <label class="stat" aria-label="XP label">XP:<strong><label id="xpText" aria-label="xp value">0
+                </label></strong></label>
+                <label class="stat" aria-label="Health label">Health:<strong><label id="healthText" aria-label="health value">100
+                </label></strong></label>
+                <label class="stat" aria-label="Gold label">Gold:<strong><label id="goldText" aria-label="gold value">50
+                </label></strong></label>
+            </section>
+
+            <section id="controls" aria-label="game controls">
+                <button id = "button1" role="button" aria-label="store button">Visit Store</button>
+                <button id= "button2" role="button" aria-label="cave button">Go to Cave</button>
+                <button id= "button3" role="button" aria-label="lift button">Lift Object </button>
+            </section>
+
+            <section id="monsterStats" aria-label="monster stats">
+                 <label class="stat" aria-label="Monster Name label">Monster Name:<strong><label id="monsterName"></label></strong></label>
+                 <label class="stat" aria-label="Monster Health Label">Health:<strong><label id="monsterHealth"></label></strong></label>
+            </section>
+
+            <section id="text" aria-label="game text">
+                Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town.
+                 You are in the town square. Where do you want to go? Use the buttons above.
+            </section>
+
+        </section>
+
+        </article>
+
+    </body>
+
+</html>
