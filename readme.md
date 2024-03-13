@@ -12,13 +12,15 @@ Theses are the things i've done So Far:
 ✅ learned the basics of HTML,CSS,JAVASCRIPT,and REACT 
 ✅ Create In House Style Guide to follow with Clean HTML, Clean Javascript, Clean Css
 
-This is where i'm going: 🗳️ Complete all project requirements for entire Free Code Camp Certification Projects.
 
 
 Table Of Contents: 🗂 
 
 Currently Working on: 
 - Role Playing Game 
+
+
+This is where i'm going: 🗳️ Complete all project requirements for entire Free Code Camp Certification Projects.
 - Calorie Counter 
 - Music Player 
 - Date Formatter 
